@@ -8,7 +8,7 @@ Since the raw data is confidential and belongs to Brandeis University, only data
 
 visualization_python_code.py is the Python code for visualization.
 
-You could go to grocery_pdf_1_eng.pdf for detailed introduction of this project; or go to PDF.pdf for the final report.(Both in English version)
+You could go to grocery_pdf_1_eng.pdf for detailed introduction of this project; or go to grocery_shopping_analysis_report.pdf for the final report.(Both in English version)
 
 
 # 超市购物行为分析
@@ -21,4 +21,4 @@ You could go to grocery_pdf_1_eng.pdf for detailed introduction of this project;
 
 visualization_python_code.py 是数据可视化的python代码。
 
-您可以打开 grocery_pdf_1_ch.pdf 阅读项目简介；或转至 PDF.pfd 阅读最终报告。（简介为中文版本，报告仅含英文版本）
+您可以打开 grocery_pdf_1_ch.pdf 阅读项目简介；或转至 grocery_shopping_analysis_report.pdf 阅读最终报告。（简介为中文版本，报告仅含英文版本）
